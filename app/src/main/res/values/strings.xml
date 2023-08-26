@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+
+    <!--MainActivity-->
+    <string name="enter_text_here">Enter text here!</string>
+    <string name="language_code_from">Language Code (from)</string>
+    <string name="language_code_to">Language Code (to)</string>
+    <string name="translate">Translate</string>
+</resources>
